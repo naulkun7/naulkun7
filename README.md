@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naulkun7, my full name is Nguyen Hoang Luan
-- 👀 I’m interested in nothing, maybe it is a game?
+- 👀 I’m interested in nothing
 - 🌱 I’m currently learning to become Full Stack Developer 
 - 💞️ I’m looking to collaborate on any projects
 <!---
